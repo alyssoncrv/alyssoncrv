@@ -12,6 +12,8 @@
   
 <p>📌 I invite you to visit my repositories and take a look at my projects.</p>
 
+<p> 💡 I offer solutions in digital software development services. Get in touch and let's work together! </p>
+
 ---
 
 <div style="display: inline_block"><br>
