@@ -8,9 +8,7 @@
 
 ### <img src="assets/icons/hello.gif" width="30px" height="30px"> 🏷️ Hello, welcome to my profile!
 
-<p> 🔎 My name is Alysson, I'm a front-end developer, driven by my passion for user experience and software engineering. I venture into the back-end and intend to create applications that are increasingly robust and adept at business problems. </p>
-
-<p>💡 I offer solutions in digital services in the area of web development. Get in touch and let's work together!</p>
+<p> 🔎 My name is Alysson, I'm a software developer, driven by my passion for user experience and software engineering.
   
 <p>📌 I invite you to visit my repositories and take a look at my projects.</p>
 
